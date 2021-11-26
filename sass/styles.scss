@@ -1,0 +1,38 @@
+//Media Queries
+@import "_media_queries.scss";
+
+/* ================================
+		INICIAN MÓDULOS
+=================================*/
+/* -------- base --------*/
+@import "_estilosGenerales.scss";
+
+
+/* -------- nav --------*/
+@import "_nav.scss";
+
+/* -------- Home --------*/
+@import "_home.scss";
+
+/* -------- About --------*/
+// @import "_about.scss";
+
+/* -------- Description --------*/
+@import "_description.scss";
+
+/* -------- Video --------*/
+@import "_video.scss";
+
+/* -------- Writers --------*/
+@import "_writers.scss";
+
+/* -------- Reviews --------*/
+@import "_reviews.scss";
+
+/* -------- Stores --------*/
+@import "_stores.scss";
+
+/* -------- footer --------*/
+@import "_footer.scss";
+
+
